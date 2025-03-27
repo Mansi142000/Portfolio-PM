@@ -205,6 +205,17 @@ const bigProjects = {
   subtitle: "Some projects I have worked on",
   projects: [
     {
+      image: require("./assets/images/eco swift.png"),
+      projectName: "Eco Swift",
+      projectDesc: "The project involved creating a prototype for a comprehensive academic collaboration platform.",
+      footerLink: [
+        {
+          name: "View",
+          url: "https://academia-site-nine.vercel.app/",
+        }
+      ]
+    },
+    {
       image: require("./assets/images/academia.png"),
       projectName: "Academia",
       projectDesc: "The project involved creating a prototype for a comprehensive academic collaboration platform.",
