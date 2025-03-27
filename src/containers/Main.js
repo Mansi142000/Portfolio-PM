@@ -18,10 +18,10 @@ const Main = () => {
         <>
           <Header />
           <Greeting />
+          <StartupProject />
           <WorkExperience />
           <WorkExperience1 />
           <Certifications/>
-          <StartupProject />
           <Education />
           <Profile />
           <ScrollToTopButton />
