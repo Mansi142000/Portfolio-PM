@@ -207,7 +207,7 @@ const bigProjects = {
     {
       image: require("./assets/images/eco swift.png"),
       projectName: "Eco Swift",
-      projectDesc: "The project involved creating a prototype for a comprehensive academic collaboration platform.",
+      projectDesc: "Created a rival business to MBTA as part of 8 hour long Business Intelligence Challenge",
       footerLink: [
         {
           name: "View",
