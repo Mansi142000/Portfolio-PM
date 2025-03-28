@@ -211,7 +211,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View",
-          url: "https://academia-site-nine.vercel.app/",
+          url: "https://eco-swift-rouge.vercel.app/",
         }
       ]
     },
