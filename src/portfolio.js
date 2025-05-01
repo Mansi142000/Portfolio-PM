@@ -14,7 +14,7 @@ const greeting = {
   username: "Mansi Negi",
   title: "Hi, I'm Mansi",
   subTitle: emoji(
-    "Master's student at Northeastern University specializing in Project Management and Software Development. Skilled in user-centered project management, stakeholder communication, and risk management, with proficiency in Java and SQL. I’m passionate about leveraging my PM skills to create impactful, user-driven solutions."
+  "Master's student at Northeastern University with a passion for Project and Product Management. Skilled in delivering user-centered solutions, optimizing stakeholder collaboration, and managing risks. I’m dedicated to leading cross-functional teams to create innovative, results-driven solutions."
   ),
   resumeLink:
     " ", // Set to empty to hide the button
